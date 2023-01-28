@@ -1,14 +1,14 @@
-#Copy & Convert#
+# Copy & Convert
 
 **App for copying files and optimize  images.**
 
-###install### 
+### Install ### 
 
 ```
 npm install
 ```
 
-###Use### 
+### Use ### 
 ```
  npm run start [--sourse] ${folder}
  ```
