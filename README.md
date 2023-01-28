@@ -1,14 +1,14 @@
-#Copy & Convert#
+# Copy & Convert
 
 **App for copying files and optimize  images.**
 
-###install### 
+### Install ### 
 
 ```
 npm install
 ```
 
-###Use### 
+### Use ### 
 ```
  npm run start [--sourse] ${folder}
  ```
@@ -21,3 +21,5 @@ npm install
 - don`t copy same files twice,
 - use streams
 
+
+--Node version v14.21.2 was used--
