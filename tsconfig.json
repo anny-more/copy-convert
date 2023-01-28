@@ -1,0 +1,16 @@
+{
+  "extends": "./node_modules/gts/tsconfig-google.json",
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "moduleResolution":"node",
+    "target": "ES2016",
+    "sourceMap": true,
+   // "rootDir": "./src",
+    "outDir": "build",
+    "forceConsistentCasingInFileNames": true 
+  },
+  "include": [
+    "src/**/*.ts",
+    "test/**/*.ts"
+, "src/converter.ts"  ]
+}

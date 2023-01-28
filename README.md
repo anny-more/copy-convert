@@ -21,3 +21,5 @@ npm install
 - don`t copy same files twice,
 - use streams
 
+
+--Node version v14.21.2 was used--
